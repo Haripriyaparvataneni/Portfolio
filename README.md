@@ -6,4 +6,4 @@ Personal portfolio site for Hari Priya Parvataneni (Software / Data / AI), hoste
 - `style.css`, `script.js` — styles and interactions
 - `assets/` — portrait photo + downloadable résumé (upload as binary via GitHub web UI; the API connector is text-only)
 
-To go live: repo **Settings → Pages → Deploy from a branch → main / (root)**.
+
