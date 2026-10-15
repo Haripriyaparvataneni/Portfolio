@@ -1,28 +1,9 @@
-# Portfolio Website 💼✨
+# Hari Priya — Portfolio Site
 
-Welcome to my personal portfolio website!  
+Personal portfolio site for Hari Priya Parvataneni (Software / Data / AI), hosted with GitHub Pages.
 
-## 🌟 About
+- `index.html` — single-page site
+- `style.css`, `script.js` — styles and interactions
+- `assets/` — portrait photo + downloadable résumé (upload as binary via GitHub web UI; the API connector is text-only)
 
-This is a responsive and interactive portfolio website to showcase my:
-
-- Projects 💻  
-- Skills 🛠️  
-- Resume 📄  
-- Contact information 📬  
-
-Built with ❤️ using HTML, CSS, and JavaScript.
-
-## 🚀 Features
-
-- Fully responsive design for all screen sizes  
-- Smooth navigation  
-- Organized project section  
-- Contact form 
-
-## 🛠️ Tech Stack
-
-- HTML5  
-- CSS3  
-- JavaScript (Vanilla)  
-
+To go live: repo **Settings → Pages → Deploy from a branch → main / (root)**.
